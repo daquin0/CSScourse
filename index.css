@@ -1,0 +1,147 @@
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    margin-bottom: 0;
+} 
+#iconCSS {
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body {
+    margin: 0;
+}
+#topbar {
+    background-color: #e5989b;
+    padding: 25px 50px;
+}
+.course-link {
+    font-size: 30px;
+    margin-right: 30px;
+    color: ivory;
+    text-decoration: none;
+}
+.course-link:visited {
+    color: black;
+}
+.course-link:hover {
+    color:salmon;
+}
+#container {
+    /*    border-width: 2px;
+    border-color: red;
+    border-style: solid;*/
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+p{
+    color: rgb(71, 83, 136);
+    text-align: justify;
+}
+#bordepa {
+/*    border-width: 2px;
+    border-color: red;
+    border-style: solid;*/
+    margin-right: 20px;
+    margin-left: 320px;
+}
+#imagen1 {
+    padding: 0px;
+    margin-left: 0px;
+    height: 300px;
+    /*    border-width: 2px;
+    border-color: red;
+    border-style: solid;*/
+    padding-bottom: 0px;
+    margin-bottom: -290px;
+}
+#btn-learn {
+    background-color: lightblue;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 70px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+#btn-learn:hover {
+    background-color: rgb(215, 233, 240);
+}
+#btn-start{
+    background-color: lightblue;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+#btn-start:hover {
+    background-color: rgb(215, 233, 240);
+}
+.label {
+    padding-left: 5px;
+}
+#imagenlanguage{
+    width: 250px;
+    height: 180px;
+    margin: 15px;
+}
+#image-wrapper{
+    display: inline;
+}
+header {
+    background-color: rgb(210, 206, 235);
+    height: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+main {
+    padding: 15px 10%;
+}
+aside {
+    width: 50%;
+    height: 420px;
+    background-color: rgb(193, 206, 224);
+    display: inline-block;
+}
+section {
+    width: 49%;
+    height: 420px;
+    background-color: rgb(224, 201, 171);
+    display: inline-block;
+}
+footer {
+    height: 500px;
+    margin-top: 20px;
+    background-color: rgb(185, 212, 211);
+}
+#pa {
+    color: black;
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+}
+h2 {
+    text-align: center;
+    font-style: bold;
+    text-shadow: 2px 2px 5px rgb(243, 239, 239);
+}
+#btn-find{
+    background-color: rgb(255, 245, 253);
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#btn-find:hover {
+    background-color: rgb(215, 233, 240);
+}
